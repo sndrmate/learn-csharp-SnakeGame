@@ -2,7 +2,7 @@
 
 I made it to practice programming.
 
-Step into the sleek world of ModernSnake and test your skills in this updated classic. It's all about embracing the nostalgia while enjoying the benefits of contemporary game design. Get ready to embark on a journey of growth, strategy, and endless entertainment!
+Step into the sleek world of modern Snake and test your skills in this updated classic. It's all about embracing the nostalgia while enjoying the benefits of contemporary game design. Get ready to embark on a journey of growth, strategy, and endless entertainment!
 
 ## How to Play:
 
